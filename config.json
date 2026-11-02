@@ -3,7 +3,7 @@
   "client_name": "AgentForce test",
   "client_uri": "https://claude.ai",
   "redirect_uris": [
-    "https://orgfarm-07bb00e5ef.my.salesforce-com.47kov2luxa3b0paoqiszyflmr1.ac.crm.dev:6101/services/extidp/callback"
+    "https://trailsignup-ca454c18ba8052.my.salesforce.com/services/extidp/callback"
   ],
   "grant_types": [
     "authorization_code",
