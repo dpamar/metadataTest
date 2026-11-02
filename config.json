@@ -1,5 +1,5 @@
 {
-  "client_id": "http://dpamar.github.io/metadataTest/config.json",
+  "client_id": "https://dpamar.github.io/metadataTest/config.json",
   "client_name": "AgentForce test",
   "client_uri": "https://claude.ai",
   "redirect_uris": [
