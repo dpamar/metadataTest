@@ -1,0 +1,16 @@
+{
+  "client_id": "http://dpamar.github.io/metadataTest/config.json",
+  "client_name": "AgentForce test",
+  "client_uri": "https://claude.ai",
+  "redirect_uris": [
+    "https://orgfarm-07bb00e5ef.my.salesforce-com.47kov2luxa3b0paoqiszyflmr1.ac.crm.dev:6101/services/extidp/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
